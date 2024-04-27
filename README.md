@@ -1,4 +1,7 @@
-## Build-Logic Module: Streamlined Project Management for Your Islamic App
+## Islamic App help Muslims with daily practice
+
+
+**Build-Logic Module: Streamlined Project Management for Your Islamic App**
 
 This repository houses the Build-Logic module, a cornerstone for establishing a well-structured and efficient Islamic app. It streamlines dependency management and project configuration, ensuring a clean and maintainable codebase.
 
