@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Quran</string>
+    <string name="no_internet_connection">Kindly check your internet connection</string>
+</resources>
